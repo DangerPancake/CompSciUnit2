@@ -1,0 +1,78 @@
+Here’s a brief definition of each term related to AI chat models and computer science:
+
+### Backpropagation Through Time (BPTT)
+An extension of backpropagation used for training recurrent neural networks (RNNs). It unfolds the RNN through time, treating sequences of inputs as a single network and adjusting weights based on errors from the output at each time step.
+
+### Bag-of-Words (BoW)
+A simple representation of text data where each document is represented as an unordered set of words, disregarding grammar and word order. It focuses on word frequency to derive features for modeling.
+
+### Bias
+A systematic error in predictions made by an AI model. Different types of biases include:
+- **Confirmation Bias**: Preference for information that confirms existing beliefs.
+- **Historical Bias**: Biases that arise from historical data, reflecting past injustices or stereotypes.
+- **Labelling Bias**: Bias introduced by the way data is labeled, which may misrepresent certain groups.
+- **Linguistic Bias**: Bias stemming from language use or expressions that favor one group over another.
+- **Sampling Bias**: Bias that occurs when the sample is not representative of the population, leading to skewed results.
+- **Selection Bias**: Bias in the selection of individuals or data, often resulting in unrepresentative samples.
+
+### Dataset
+A collection of data, typically organized in a structured format, used for training, validating, or testing machine learning models.
+
+### Deep Learning
+A subset of machine learning that uses neural networks with many layers (deep networks) to model complex patterns in large datasets.
+
+### GPU (Graphics Processing Unit)
+A specialized processor designed to accelerate rendering images and perform parallel processing tasks, commonly used in deep learning for training models due to its efficiency in handling large computations.
+
+### Hyperparameter Tuning
+The process of optimizing the parameters that govern the training process of a machine learning model, such as learning rate, batch size, and architecture, to improve model performance.
+
+### Large Language Model (LLM)
+A type of deep learning model trained on vast amounts of text data to understand and generate human-like text. Examples include GPT-3 and BERT.
+
+### Latency
+The time delay between a user's input and the AI model's response. Low latency is crucial for real-time applications like chatbots.
+
+### Long Short-Term Memory (LSTM)
+A type of RNN architecture designed to remember information for long periods, mitigating the vanishing gradient problem. It uses memory cells to maintain information over time.
+
+### Loss Function
+A mathematical function that quantifies the difference between the predicted output and the actual output. It guides the training process by indicating how well the model is performing.
+
+### Memory Cell State
+In LSTM networks, it refers to the internal state that carries information through the network over time, allowing the model to remember past information.
+
+### Natural Language Processing (NLP)
+A field of AI focused on enabling machines to understand, interpret, and respond to human language. Key areas include:
+- **Discourse Integration**: Understanding how sentences relate to each other in larger contexts.
+- **Lexical Analysis**: Analyzing the structure and meaning of words and their relationships.
+- **Pragmatic Analysis**: Understanding language in context, including implications and intentions.
+- **Semantic Analysis**: Extracting meaning from text, focusing on word meanings and relationships.
+- **Syntactical Analysis (Parsing)**: Analyzing the grammatical structure of sentences.
+
+### Natural Language Understanding (NLU)
+A subfield of NLP that focuses on enabling machines to comprehend and interpret human language meaningfully.
+
+### Preprocessing
+The steps taken to clean and prepare raw data for analysis or model training, including normalization, tokenization, and removing stop words.
+
+### Recurrent Neural Network (RNN)
+A class of neural networks designed to handle sequential data by maintaining a hidden state that captures information from previous inputs.
+
+### Self-Attention Mechanism
+A technique in neural networks that allows the model to weigh the importance of different words in a sentence relative to each other, enhancing the understanding of context and relationships.
+
+### Synthetic Data
+Artificially generated data that mimics real data characteristics, used for training models when real data is scarce or sensitive.
+
+### Tensor Processing Unit (TPU)
+A type of application-specific integrated circuit (ASIC) developed by Google to accelerate machine learning workloads, particularly deep learning.
+
+### Transformer Neural Network (Transformer NN)
+A deep learning model architecture that uses self-attention mechanisms and is highly effective for NLP tasks. It allows for parallel processing of input data and has become the foundation for many state-of-the-art models.
+
+### Vanishing Gradient
+A problem in training deep neural networks where gradients become very small, making it difficult for the model to learn long-range dependencies. It is especially prevalent in RNNs.
+
+### Weights
+Parameters within a neural network that are adjusted during training to minimize the loss function, influencing how input data is transformed to produce outputs.
