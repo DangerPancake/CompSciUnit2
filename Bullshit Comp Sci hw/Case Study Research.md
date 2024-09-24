@@ -13,10 +13,10 @@
     Chatbots collect data and because of that there is all the ethics introduced as for what to do with the data and such
   #### Conclusion
   It really comes down to a few things:
-    The chatbot doesn't have medical expertise and doesn't actually know what it is saying most of the time
-    Are users disclosing crimes required to be reported? How does the chatbot detect this (can't have false positives!)
-    Do we store user data? how and for what purpose?
-    How do we train the chatbot? The dataset used for training heavily impacts the advice given
+    # The chatbot doesn't have medical expertise and doesn't actually know what it is saying most of the time
+    # Are users disclosing crimes required to be reported? How does the chatbot detect this (can't have false positives!)
+    # Do we store user data? how and for what purpose?
+    # How do we train the chatbot? The dataset used for training heavily impacts the advice given
 
 ### 5 Ethical metrics
 #### Non-maleficence - Avoid causing physical, social or mental harm to users
